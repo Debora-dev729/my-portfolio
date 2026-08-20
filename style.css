@@ -1,0 +1,39 @@
+Body {
+    Font-family: Arial, sans-serif;
+    Background-color: #f4f4f4;
+    Color: #222;
+    Margin: 0;
+}
+
+Nav {
+    Background-color: #222;
+    Padding: 20px;
+}
+
+Nav a {
+    Color: white;
+    Text-decoration: none;
+    Margin-right: 20px;
+}
+
+Section {
+    Padding: 60px 10%;
+}
+
+H1 {
+    Font-size: 45px;
+}
+
+H2 {
+    Font-size: 30px;
+}
+
+Footer {
+    Background-color: #222;
+    Color: white;
+    Text-align: center;
+    Padding: 20px;
+}
+
+
+
